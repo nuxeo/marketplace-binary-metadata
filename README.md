@@ -1,8 +1,8 @@
-#Nuxeo Binary Metadata Marketplace Package
+#Nuxeo Binary Metadata Marketplace Package (ONLY FOR NUXEO 6.0)
 
 ## Nuxeo Marketplace Addon URL
 
-The **Nuxeo** addon _binary-metadata_ repository is on [github](https://github.com/nuxeo/nuxeo-binary-metadata).
+The **Nuxeo** addon _binary-metadata_ repository is on [github](https://github.com/nuxeo/nuxeo-binary-metadata). (ONLY FOR NUXEO 6.0)
 
 ###Report & Contribute
 
