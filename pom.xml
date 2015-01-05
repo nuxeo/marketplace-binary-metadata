@@ -20,8 +20,6 @@
 
   <modules>
     <module>marketplace</module>
-    <module>ftest/webdriver</module>
-    <module>ftest/funkload</module>
   </modules>
 
   <dependencyManagement>
