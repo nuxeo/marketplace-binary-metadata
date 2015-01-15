@@ -1,5 +1,5 @@
 <!-- See documentation at http://doc.nuxeo.com/x/HgIz -->
-<package type="addon" name="nuxeo-binary-metadata-marketplace" version="@VERSION@">
+<package type="addon" name="nuxeo-binary-metadata" version="@VERSION@">
   <title>Nuxeo Binary Metadata</title>
   <description>
     Nuxeo addon to extract and write binaries metadata
